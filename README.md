@@ -14,9 +14,10 @@ I'm **Yash Gupta** — a passionate Computer Science & Engineering student (Batc
 <br>
 
 
-💬 Feel free to connect with me for collaboration or just a good tech talk!
-Gmail : yashgupta2711111@gmail.com
-        masteryashgupta1@gmail.com
+💬 Feel free to connect with me for collaboration or just a good tech talk! <br>
+Gmail : <br>
+- yashgupta2711111@gmail.com <br>
+- masteryashgupta1@gmail.com
 
 
 ## 🌐 Socials:
@@ -38,4 +39,3 @@ Gmail : yashgupta2711111@gmail.com
 ---
 [![](https://visitcount.itsvg.in/api?id=masteryashgupta&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
