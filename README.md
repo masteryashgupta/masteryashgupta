@@ -15,6 +15,8 @@ I'm **Yash Gupta** — a passionate Computer Science & Engineering student (Batc
 
 
 💬 Feel free to connect with me for collaboration or just a good tech talk!
+Gmail : yashgupta2711111@gmail.com
+        masteryashgupta1@gmail.com
 
 
 ## 🌐 Socials:
