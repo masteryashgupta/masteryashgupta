@@ -60,11 +60,17 @@
 
 </div>
 
-## 🏆 GitHub Trophies
+## 📈 Commit Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=masteryashgupta&theme=radical&no-frame=true&row=1&column=7" width="98%"/>
+<!--COMMITS:START-->
+| ⏱️ Last 30 Days | ⏱️ Last 60 Days | ⏱️ Last 90 Days | 🗓️ Last 6 Months | 🗓️ Last 1 Year |
+|:---:|:---:|:---:|:---:|:---:|
+| 0 | 0 | 0 | 0 | 0 |
+<!--COMMITS:END-->
+
+<sub>Auto-updated daily via GitHub Actions</sub>
 
 </div>
 
@@ -73,14 +79,6 @@
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</div>
-
-## 🔝 Top Contributed Repo
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=masteryashgupta&limit=5&theme=dark&combine_all_yearly_contributions=true" width="80%"/>
 
 </div>
 
