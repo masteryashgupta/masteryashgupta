@@ -69,7 +69,7 @@
 
 <div align="center">
 
-<!--COMMITS:START-->
+<!--cOMMITS:START-->
 | ⏱️ Last 30 Days | ⏱️ Last 60 Days | ⏱️ Last 90 Days | 🗓️ Last 6 Months | 🗓️ Last 1 Year |
 |:---:|:---:|:---:|:---:|:---:|
 | 183 | 680 | 685 | 1369 | 1390 |
