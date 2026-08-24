@@ -50,10 +50,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=masteryashgupta&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=masteryashgupta&theme=radical&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masteryashgupta&layout=compact&theme=radical&hide_border=true" height="165"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=masteryashgupta&theme=redical&hide_border=true" width="98%"/>
 
