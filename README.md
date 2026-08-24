@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Yash%20Gupta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20MERN%20Stack&descAlignY=55&descAlign=50" width="100%"/>
 
-<a href="https://instagram.com/masteryashgupta"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 <a href="https://linkedin.com/in/masteryashgupta"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:yashgupta2711111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
@@ -67,7 +66,7 @@
 <!--COMMITS:START-->
 | ⏱️ Last 30 Days | ⏱️ Last 60 Days | ⏱️ Last 90 Days | 🗓️ Last 6 Months | 🗓️ Last 1 Year |
 |:---:|:---:|:---:|:---:|:---:|
-| 176 | 673 | 678 | 1362 | 1383 |
+| 0 | 0 | 0 | 0 | 0 |
 <!--COMMITS:END-->
 
 <sub>Auto-updated daily via GitHub Actions</sub>
